@@ -1,6 +1,6 @@
-# hi-pldz-skills
+# agent-skills
 
-个人使用的 Codex Skills，包含个人文章文风复刻、本地会话管理和 Azure 图片生成工具。
+个人使用的 Agent Skills(目前是Codex为主)，包含个人文章文风复刻、本地会话管理和 Azure 图片生成工具。
 
 > 最后更新：2026-11-11
 
